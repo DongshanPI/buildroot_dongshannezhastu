@@ -1,0 +1,12 @@
+[submodule "buildroot-awol"]
+	path = buildroot-awol
+	url = https://e.coding.net/weidongshan/br2-external-tree/buildroot-awol.git
+[submodule "br2nezhastu"]
+	path = br2nezhastu
+	url = https://e.coding.net/weidongshan/allwinner-d1s/buildroot-external-dshannezhastu.git
+[submodule "br2qt5"]
+	path = br2qt5
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/buildroot-external-qt5.git
+[submodule "br2lvgl"]
+	path = br2lvgl
+	url = https://e.coding.net/weidongshan/100ask_t113-pro/buildroot-external-lvgl.git
